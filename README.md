@@ -10,3 +10,12 @@
 
 3. Run the main file after checking the data storage path.
 
+```
+@inproceedings{jin2023graph,
+  title={Graph to Grid: Learning Deep Representations for Multimodal Emotion Recognition},
+  author={Jin, Ming and Li, Jinpeng},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={5985--5993},
+  year={2023}
+}
+```
